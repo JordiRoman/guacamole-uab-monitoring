@@ -4,15 +4,15 @@
     "url": "https://guacamed.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/guacamed.uab.cat.ico",
     "slug": "guaca-med",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "99.82%",
-    "time": 1615,
-    "timeDay": 632,
-    "timeWeek": 1499,
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "99.80%",
+    "time": 1618,
+    "timeDay": 0,
+    "timeWeek": 1555,
     "timeMonth": 1385,
     "timeYear": 1385,
     "dailyMinutesDown": {
@@ -23,7 +23,8 @@
       "2026-06-17": 174,
       "2026-06-18": 103,
       "2026-06-23": 251,
-      "2026-06-30": 117
+      "2026-06-30": 117,
+      "2026-07-04": 58
     }
   },
   {
@@ -31,15 +32,15 @@
     "url": "https://alvocatcib.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/alvocatcib.uab.cat.ico",
     "slug": "guaca-cib",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.82%",
-    "time": 2298,
-    "timeDay": 859,
-    "timeWeek": 979,
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.81%",
+    "time": 2284,
+    "timeDay": 0,
+    "timeWeek": 1033,
     "timeMonth": 1232,
     "timeYear": 1232,
     "dailyMinutesDown": {
@@ -50,7 +51,8 @@
       "2026-06-17": 169,
       "2026-06-18": 98,
       "2026-06-23": 246,
-      "2026-06-30": 112
+      "2026-06-30": 112,
+      "2026-07-04": 54
     }
   },
   {
@@ -58,15 +60,15 @@
     "url": "https://aules.sbd.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.sbd.uab.cat.ico",
     "slug": "guaca-sbd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "99.83%",
-    "time": 1885,
-    "timeDay": 914,
-    "timeWeek": 980,
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "99.82%",
+    "time": 1862,
+    "timeDay": 0,
+    "timeWeek": 1010,
     "timeMonth": 1057,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -77,7 +79,8 @@
       "2026-06-17": 164,
       "2026-06-18": 93,
       "2026-06-23": 241,
-      "2026-06-30": 107
+      "2026-06-30": 107,
+      "2026-07-04": 49
     }
   },
   {
@@ -85,15 +88,15 @@
     "url": "https://serim-guacamole.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/serim-guacamole.uab.cat.ico",
     "slug": "guaca-fti",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.02%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "99.83%",
     "time": 1191,
-    "timeDay": 653,
-    "timeWeek": 905,
+    "timeDay": 0,
+    "timeWeek": 853,
     "timeMonth": 1001,
     "timeYear": 1001,
     "dailyMinutesDown": {
@@ -104,7 +107,8 @@
       "2026-06-17": 159,
       "2026-06-18": 88,
       "2026-06-23": 237,
-      "2026-06-30": 103
+      "2026-06-30": 103,
+      "2026-07-04": 44
     }
   },
   {
@@ -112,15 +116,15 @@
     "url": "https://aules.fee.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.fee.uab.cat.ico",
     "slug": "guaca-eie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "99.83%",
     "time": 1371,
-    "timeDay": 676,
-    "timeWeek": 1357,
+    "timeDay": 0,
+    "timeWeek": 852,
     "timeMonth": 968,
     "timeYear": 968,
     "dailyMinutesDown": {
@@ -131,7 +135,8 @@
       "2026-06-17": 154,
       "2026-06-18": 83,
       "2026-06-23": 232,
-      "2026-06-30": 98
+      "2026-06-30": 98,
+      "2026-07-04": 39
     }
   },
   {
@@ -139,15 +144,15 @@
     "url": "https://guacavet.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/guacavet.uab.cat.ico",
     "slug": "guaca-vet",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "99.85%",
-    "time": 1235,
-    "timeDay": 476,
-    "timeWeek": 729,
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.84%",
+    "time": 1213,
+    "timeDay": 0,
+    "timeWeek": 724,
     "timeMonth": 981,
     "timeYear": 981,
     "dailyMinutesDown": {
@@ -158,7 +163,8 @@
       "2026-06-17": 149,
       "2026-06-18": 79,
       "2026-06-23": 227,
-      "2026-06-30": 93
+      "2026-06-30": 93,
+      "2026-07-04": 34
     }
   },
   {
@@ -178,7 +184,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 202,
+      "2026-07-04": 68,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -541,8 +548,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -550,15 +556,15 @@
     "url": "https://aperture.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aperture.uab.cat.ico",
     "slug": "guaca-ee",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.25%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "99.85%",
-    "time": 1142,
-    "timeDay": 660,
-    "timeWeek": 909,
+    "time": 1116,
+    "timeDay": 0,
+    "timeWeek": 852,
     "timeMonth": 1021,
     "timeYear": 1021,
     "dailyMinutesDown": {
@@ -569,7 +575,8 @@
       "2026-06-17": 145,
       "2026-06-18": 74,
       "2026-06-23": 222,
-      "2026-06-30": 88
+      "2026-06-30": 88,
+      "2026-07-04": 25
     }
   },
   {
@@ -577,15 +584,15 @@
     "url": "https://aules.ccss.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.ccss.uab.cat.ico",
     "slug": "guaca-soc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "99.86%",
     "time": 1569,
-    "timeDay": 502,
-    "timeWeek": 831,
+    "timeDay": 0,
+    "timeWeek": 802,
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
@@ -595,7 +602,8 @@
       "2026-06-17": 140,
       "2026-06-18": 69,
       "2026-06-23": 217,
-      "2026-06-30": 83
+      "2026-06-30": 83,
+      "2026-07-04": 20
     }
   },
   {
@@ -603,15 +611,15 @@
     "url": "https://guacaedu.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/guacaedu.uab.cat.ico",
     "slug": "guaca-edu",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "99.87%",
-    "time": 1008,
-    "timeDay": 387,
-    "timeWeek": 525,
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.86%",
+    "time": 1010,
+    "timeDay": 0,
+    "timeWeek": 500,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
@@ -621,7 +629,8 @@
       "2026-06-17": 135,
       "2026-06-18": 64,
       "2026-06-23": 212,
-      "2026-06-30": 78
+      "2026-06-30": 78,
+      "2026-07-04": 15
     }
   },
   {
@@ -630,18 +639,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/guacallet.uab.cat.ico",
     "slug": "guaca-llet",
     "status": "down",
-    "uptime": "98.42%",
+    "uptime": "98.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.17%",
-    "uptimeYear": "93.76%",
+    "uptimeMonth": "22.19%",
+    "uptimeYear": "93.51%",
     "time": 1097,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 202,
+      "2026-07-04": 68,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -673,18 +683,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/guacapsico.uab.cat.ico",
     "slug": "guaca-psico",
     "status": "down",
-    "uptime": "98.42%",
+    "uptime": "98.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.17%",
-    "uptimeYear": "93.76%",
-    "time": 1138,
+    "uptimeMonth": "22.19%",
+    "uptimeYear": "93.52%",
+    "time": 1118,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 202,
+      "2026-07-04": 69,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -715,15 +726,15 @@
     "url": "https://aules.liam.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.liam.uab.cat.ico",
     "slug": "guaca-liam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.89%",
-    "time": 816,
-    "timeDay": 402,
-    "timeWeek": 918,
+    "time": 818,
+    "timeDay": 0,
+    "timeWeek": 865,
     "timeMonth": 873,
     "timeYear": 873,
     "dailyMinutesDown": {
@@ -733,7 +744,8 @@
       "2026-06-17": 121,
       "2026-06-18": 50,
       "2026-06-23": 198,
-      "2026-06-30": 64
+      "2026-06-30": 64,
+      "2026-07-04": 0
     }
   }
 ]
